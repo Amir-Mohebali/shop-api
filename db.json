@@ -19,7 +19,7 @@
         "price": 2284,
         "discount": 30,
         "isNew": true,
-        "images": ["https://i.postimg.cc/Y9FkHjCg/samsung-qn85d-tv01.avif", "https://postimg.cc/JyVfnczX", "https://postimg.cc/XZfTyGrz", "https://postimg.cc/gX4QNCqy"]
+        "images": ["https://i.postimg.cc/vBZvYCrM/samsung-qn85d-tv01.jpg", "https://i.postimg.cc/5NYnFcZ2/samsung-qn85d-tv02.jpg", "https://i.postimg.cc/k5ccd7tf/samsung-qn85d-tv03.jpg", "https://i.postimg.cc/sg5mwYfF/samsung-qn85d-tv04.jpg"]
     },
     {
           "Cat": "tv", 
@@ -40,7 +40,7 @@
           "price": 1646,
           "discount": 15,
           "isNew": true,
-          "images": ["https://i.postimg.cc/bvBNPKHX/samsung-q60d-tv01.avif", "https://postimg.cc/jwX0BwK7", "https://postimg.cc/wyHYWcKz", "https://postimg.cc/RJZ5mSVb"]
+          "images": ["https://i.postimg.cc/qMPQsbTX/samsung-q60d-tv01.jpg", "https://i.postimg.cc/vmMzj4D4/samsung-q60d-tv02.jpg", "https://i.postimg.cc/85fkztt7/samsung-q60d-tv03.webp", "https://i.postimg.cc/Gtkck90r/samsung-q60d-tv04.webp"]
     },
     {
           "Cat": "tv", 
@@ -61,7 +61,7 @@
           "price": 1899,
           "discount": 20,
           "isNew": true,
-          "images": ["https://i.postimg.cc/nVvZSs5f/sony-bravia-8-oled-tv01.jpg", "https://postimg.cc/9wMSSLJ6", "https://postimg.cc/jCgBNrjt", "https://postimg.cc/9rDKYN4T"]
+          "images": ["https://i.postimg.cc/nVvZSs5f/sony-bravia-8-oled-tv01.jpg", "https://i.postimg.cc/mkNsPqMg/sony-bravia-8-oled-tv02.jpg", "https://i.postimg.cc/YqM75rKG/sony-bravia-8-oled-tv03.jpg", "https://i.postimg.cc/7Y94DFwB/sony-bravia-8-oled-tv04.jpg"]
     },
     {
           "Cat": "tv", 
@@ -81,7 +81,7 @@
             },
           "price": 1340,
           "isNew": true,
-          "images": ["https://postimg.cc/dhLsdBFS", "https://postimg.cc/LqPmQ8nt", "https://postimg.cc/DJKn93Xt"]
+          "images": ["https://i.postimg.cc/qvGzPb50/lg-evo-c4-tv01.jpg", "https://i.postimg.cc/cJ96HKWb/lg-evo-c4-tv02.jpg", "https://i.postimg.cc/Jns0B144/lg-evo-c4-tv03.jpg"]
     },
     {
           "Cat": "tv", 
@@ -100,7 +100,7 @@
               "Connectivity Technology": "Bluetooth, Wi-Fi, USB, Ethernet, HDMI"
             },
           "price": 1646,
-          "images": ["https://postimg.cc/rzf2Jrf6", "https://postimg.cc/rKbX6L6Q", "https://postimg.cc/pmFNR1Rx", "https://postimg.cc/mthf6gnP"]
+          "images": ["https://i.postimg.cc/hPB4K8xG/samsung-qn42s90d-tv01.jpg", "https://i.postimg.cc/T32RDRtM/samsung-qn42s90d-tv02.jpg", "https://i.postimg.cc/4x8Xvr0K/samsung-qn42s90d-tv03.jpg", "https://i.postimg.cc/hP1DvJb1/samsung-qn42s90d-tv04.jpg"]
     },
     {
           "Cat": "tv", 
@@ -119,7 +119,7 @@
               "Connectivity Technology": "Bluetooth, Wi-Fi, USB, Ethernet, HDMI"
             },
           "price": 1340,
-          "images": ["https://postimg.cc/fkLrMgfF", "https://postimg.cc/K4Hsjr9Y", "https://postimg.cc/8jfX6J3m", "https://postimg.cc/3kMSCrQ5"]
+          "images": ["https://i.postimg.cc/wxc8cCy6/xiaomi-a2-50-tv01.png", "https://i.postimg.cc/BQSWhmH2/xiaomi-a2-50-tv02.png", "https://i.postimg.cc/zX0s4TF6/xiaomi-a2-50-tv03.png", "https://i.postimg.cc/RZhkmqPF/xiaomi-a2-50-tv04.jpg"]
     },
     {
       "Cat": "phone",
@@ -140,7 +140,7 @@
         },
       "price": 900,
       "isNew": true,
-      "images": ["https://postimg.cc/23GrKJ8K", "https://postimg.cc/CdSwJYY8", "https://postimg.cc/BXv49gjQ"]
+      "images": ["https://i.postimg.cc/KvSjRhXx/samsung-galaxy-s24-ultra-pic01.jpg", "https://i.postimg.cc/fW0kzTr8/samsung-galaxy-s24-ultra-pic03.jpg", "https://i.postimg.cc/VLq6tZ1M/samsung-galaxy-s24-ultra-pic04.jpg"]
     },
     {
       "Cat": "phone",
@@ -161,7 +161,7 @@
         },
       "price": 900,
       "isNew": true,
-      "images": ["https://postimg.cc/gLFmPFLC", "https://postimg.cc/QHDh4D35", "https://postimg.cc/G9Gbx2Zd", "https://postimg.cc/tn3yqShY", "https://postimg.cc/wt1pyTXK"]
+      "images": ["https://i.postimg.cc/7hb60qHZ/apple-iphone-16-pro-pic01.jpg", "https://i.postimg.cc/fTtybWqH/apple-iphone-16-pro-pic02.jpg", "https://i.postimg.cc/pV1yx5Ch/apple-iphone-16-pro-pic03.jpg", "https://i.postimg.cc/pr7dB3rY/apple-iphone-16-pro-pic04.jpg", "https://i.postimg.cc/d0BtfhD0/apple-iphone-16-pro-pic05.jpg"]
     },
     {
       "Cat": "phone",
@@ -182,7 +182,7 @@
         },
       "price": 900,
       "isNew": true,
-      "images": ["https://postimg.cc/3db7KvGj", "https://postimg.cc/xXJQq1Gw", "https://postimg.cc/SnBh9bDJ"]
+      "images": ["https://i.postimg.cc/t49gNdCc/samsung-galaxy-z-fold6-pic01.webp", "https://i.postimg.cc/wjFjft1j/samsung-galaxy-z-fold6-pic02.webp", "https://i.postimg.cc/CK1LWF8H/samsung-galaxy-z-fold6-pic03.webp"]
     },
     {
       "Cat": "phone",
@@ -203,7 +203,7 @@
         },
       "price": 900,
       "isNew": false,
-      "images": ["https://postimg.cc/xXh0PzTj", "https://postimg.cc/5j4ML3qq", "https://postimg.cc/ZBF4ZsP0", "https://postimg.cc/xNfYdGg5"]
+      "images": ["https://i.postimg.cc/SKNJk6B9/samsung-galaxy-a54-pic01.webp", "https://i.postimg.cc/sfSDFHM8/samsung-galaxy-a54-pic02.jpg", "https://i.postimg.cc/mDKDY0t3/samsung-galaxy-a54-pic03.webp", "https://i.postimg.cc/T1mPCCDz/samsung-galaxy-a54-pic04.webp"]
     },
     {
       "Cat": "phone",
@@ -224,7 +224,7 @@
         },
       "price": 900,
       "isNew": false,
-      "images": ["https://postimg.cc/S2zk5NRL", "https://postimg.cc/t1c92VqC", "https://postimg.cc/SnDSYvH9", "https://postimg.cc/v1TQrvdN"]
+      "images": ["https://i.postimg.cc/bJmrZZj5/apple-iphone-15-pro-pic01.jpg", "https://i.postimg.cc/LX9h4zGf/apple-iphone-15-pro-pic02.jpg", "https://i.postimg.cc/pdtp4NZs/apple-iphone-15-pro-pic03.jpg", "https://i.postimg.cc/ZqFChfs4/apple-iphone-15-pro-pic04.jpg"]
     },
     {
       "Cat": "laptop", 
@@ -241,7 +241,7 @@
         },
       "price": 1200,
       "isNew": true,
-      "images": ["https://postimg.cc/TKYGxch3", "https://postimg.cc/jLhKB1x1", "https://postimg.cc/BjY3n11c"]
+      "images": ["https://i.postimg.cc/XY9vwHbd/asus-rog-strix-g16-pic01.jpg", "https://i.postimg.cc/jdp5nVGR/asus-rog-strix-g16-pic02.jpg", "https://i.postimg.cc/tgy4D3qf/asus-rog-strix-g16-pic03.jpg"]
     },
     {
       "Cat": "laptop",
@@ -257,7 +257,7 @@
           "Hard": "512 GB"
         },
       "price": 1200,
-      "images": ["https://postimg.cc/9zdjqk7f", "https://postimg.cc/VdzP9FqW", "https://postimg.cc/HV3D673D"]
+      "images": ["https://i.postimg.cc/1RTRbhRD/asus-vivobook-go-15-pic01.jpg", "https://i.postimg.cc/vHV8sqDk/asus-vivobook-go-15-pic02.jpg", "https://i.postimg.cc/MpJ6K7QT/asus-vivobook-go-15-pic03.jpg"]
     },
     {
       "Cat": "laptop",
@@ -273,7 +273,7 @@
           "Hard": "1 TB"
         },
       "price": 1200,
-      "images": ["https://postimg.cc/H89DDJgM", "https://postimg.cc/N9TvDJCp", "https://postimg.cc/MfS2F7hx", "https://postimg.cc/jWBrz0cD"]
+      "images": ["https://i.postimg.cc/0jL8SmXV/asus-tuf-gaming-a16-pic01.jpg", "https://i.postimg.cc/76tPxj38/asus-tuf-gaming-a16-pic02.jpg", "https://i.postimg.cc/j2WxCvcW/asus-tuf-gaming-a16-pic03.jpg", "https://i.postimg.cc/gJ2kbG6H/asus-tuf-gaming-a16-pic04.jpg"]
     }
   ]
 }
